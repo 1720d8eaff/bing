@@ -1,6 +1,5 @@
 import random
 
-
 width=21
 height=21
 maze = [[1 for _ in range(width)] for _ in range(height)]
